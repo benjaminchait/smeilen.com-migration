@@ -4,8 +4,8 @@ title: 'Hanoi: On Being A Foreigner'
 date: 2012-12-08T09:52:06+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/12/08/201212hanoi-on-being-a-foreigner/
-permalink: /2012/12/08/201212hanoi-on-being-a-foreigner/
+guid: 2012/12/08/hanoi-on-being-a-foreigner/
+permalink: /2012/12/08/hanoi-on-being-a-foreigner/
 categories:
   - Uncategorized
 tags:

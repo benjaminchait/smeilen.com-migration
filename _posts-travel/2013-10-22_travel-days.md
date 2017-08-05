@@ -4,8 +4,8 @@ title: Travel Days Ahead
 date: 2013-10-22T22:00:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/10/22/201310travel-days/
-permalink: /2013/10/22/201310travel-days/
+guid: 2013/10/22/travel-days/
+permalink: /2013/10/22/travel-days/
 categories:
   - Uncategorized
 ---

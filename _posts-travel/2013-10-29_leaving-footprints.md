@@ -4,8 +4,8 @@ title: Leaving Footprints
 date: 2013-10-29T22:00:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/10/29/201310leaving-footprints/
-permalink: /2013/10/29/201310leaving-footprints/
+guid: 2013/10/29/leaving-footprints/
+permalink: /2013/10/29/leaving-footprints/
 categories:
   - Uncategorized
 ---

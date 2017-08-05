@@ -4,8 +4,8 @@ title: A Decade Out
 date: 2013-01-09T02:00:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/01/09/20131a-decade-out/
-permalink: /2013/01/09/20131a-decade-out/
+guid: 2013/01/09/a-decade-out/
+permalink: /2013/01/09/a-decade-out/
 categories:
   - Uncategorized
 tags:

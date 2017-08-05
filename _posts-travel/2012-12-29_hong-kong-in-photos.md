@@ -4,8 +4,8 @@ title: 'Hong Kong: In Photos'
 date: 2012-12-29T12:41:15+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/12/29/201212hong-kong-in-photos/
-permalink: /2012/12/29/201212hong-kong-in-photos/
+guid: 2012/12/29/hong-kong-in-photos/
+permalink: /2012/12/29/hong-kong-in-photos/
 categories:
   - Uncategorized
 tags:

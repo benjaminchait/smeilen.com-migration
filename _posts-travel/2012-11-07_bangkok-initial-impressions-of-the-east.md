@@ -4,8 +4,8 @@ title: 'Bangkok: Initial Impressions of the East'
 date: 2012-11-07T05:32:41+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/11/07/201211bangkok-initial-impressions-of-the-east/
-permalink: /2012/11/07/201211bangkok-initial-impressions-of-the-east/
+guid: 2012/11/07/bangkok-initial-impressions-of-the-east/
+permalink: /2012/11/07/bangkok-initial-impressions-of-the-east/
 categories:
   - Uncategorized
 tags:

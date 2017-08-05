@@ -4,8 +4,8 @@ title: Monarch in the Snow
 date: 2013-10-08T22:00:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/10/08/201310monarch-in-the-snow/
-permalink: /2013/10/08/201310monarch-in-the-snow/
+guid: 2013/10/08/monarch-in-the-snow/
+permalink: /2013/10/08/monarch-in-the-snow/
 categories:
   - Uncategorized
 ---

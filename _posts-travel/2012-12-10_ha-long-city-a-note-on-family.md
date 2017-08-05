@@ -4,8 +4,8 @@ title: 'Ha Long City: A Note on Family'
 date: 2012-12-10T12:50:35+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/12/10/201212ha-long-city-a-note-on-family/
-permalink: /2012/12/10/201212ha-long-city-a-note-on-family/
+guid: 2012/12/10/ha-long-city-a-note-on-family/
+permalink: /2012/12/10/ha-long-city-a-note-on-family/
 categories:
   - Uncategorized
 tags:

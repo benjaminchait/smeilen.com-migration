@@ -4,8 +4,8 @@ title: Blue Water Lily
 date: 2013-10-01T22:00:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/10/01/201310blue-water-lily/
-permalink: /2013/10/01/201310blue-water-lily/
+guid: 2013/10/01/blue-water-lily/
+permalink: /2013/10/01/blue-water-lily/
 categories:
   - Uncategorized
 ---

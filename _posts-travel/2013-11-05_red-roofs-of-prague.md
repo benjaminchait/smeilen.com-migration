@@ -4,8 +4,8 @@ title: Red Roofs of Prague
 date: 2013-11-05T23:00:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/11/05/201311red-roofs-of-prague/
-permalink: /2013/11/05/201311red-roofs-of-prague/
+guid: 2013/11/05/red-roofs-of-prague/
+permalink: /2013/11/05/red-roofs-of-prague/
 categories:
   - Uncategorized
 ---

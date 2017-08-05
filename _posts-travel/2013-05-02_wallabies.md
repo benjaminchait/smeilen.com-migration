@@ -4,8 +4,8 @@ title: Wallabies
 date: 2013-05-02T21:30:54+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/05/02/20135wallabies/
-permalink: /2013/05/02/20135wallabies/
+guid: 2013/05/02/wallabies/
+permalink: /2013/05/02/wallabies/
 categories:
   - Uncategorized
 ---

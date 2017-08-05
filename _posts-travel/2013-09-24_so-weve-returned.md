@@ -4,8 +4,8 @@ title: 'So We&#8217;ve Returned&#8230;'
 date: 2013-09-24T22:30:00+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/09/24/20139so-weve-returned/
-permalink: /2013/09/24/20139so-weve-returned/
+guid: 2013/09/24/so-weve-returned/
+permalink: /2013/09/24/so-weve-returned/
 categories:
   - Uncategorized
 ---

@@ -4,8 +4,8 @@ title: 'Chiang Mai to Pai: The Journey North'
 date: 2012-11-21T08:31:12+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/11/21/201211chiang-mai-to-pai-the-journey-north/
-permalink: /2012/11/21/201211chiang-mai-to-pai-the-journey-north/
+guid: 2012/11/21/chiang-mai-to-pai-the-journey-north/
+permalink: /2012/11/21/chiang-mai-to-pai-the-journey-north/
 categories:
   - Uncategorized
 tags:

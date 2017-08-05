@@ -4,8 +4,8 @@ title: Launching
 date: 2012-10-30T03:15:32+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/10/30/201210launching/
-permalink: /2012/10/30/201210launching/
+guid: 2012/10/30/launching/
+permalink: /2012/10/30/launching/
 categories:
   - Uncategorized
 tags:

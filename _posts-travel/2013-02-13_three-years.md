@@ -4,8 +4,8 @@ title: Three Years
 date: 2013-02-13T20:26:02+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/02/13/20132three-years/
-permalink: /2013/02/13/20132three-years/
+guid: 2013/02/13/three-years/
+permalink: /2013/02/13/three-years/
 categories:
   - Uncategorized
 ---

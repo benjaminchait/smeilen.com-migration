@@ -4,8 +4,8 @@ title: Kotoba No Kabe
 date: 2013-01-24T04:07:02+00:00
 author: Sarah Meilen
 layout: post
-guid: 2013/01/24/20131kotoba-no-kabe/
-permalink: /2013/01/24/20131kotoba-no-kabe/
+guid: 2013/01/24/kotoba-no-kabe/
+permalink: /2013/01/24/kotoba-no-kabe/
 categories:
   - Uncategorized
 ---
