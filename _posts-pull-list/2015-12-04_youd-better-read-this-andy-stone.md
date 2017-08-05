@@ -13,7 +13,7 @@ Ok, here we go.
 
 <em>Saga </em>(Writer: Brian K. Vaughan, Artist: Fiona Staples)
 
-<img src="/img/pull-list/d15dd-img.jpg" alt="" />
+<img src="/img/pull-list/1449272833214.jpeg" alt="" />
 <p id="yui_3_17_2_1_1449271443407_13046">I know, it's a pretty popular title, not something I dug out of obscurity. But, it does hold a special place for me. It's the title that brought me back to actively reading comics a few years ago. It seems as fitting a place as any to begin this list. Also, if you don't like Saga, you probably won't like much of what I have to say about comics.</p>
 <p id="yui_3_17_2_1_1449271443407_15672">A lot has been said about this book so I won't rehash. Suffice to say it's a complicated, sometimes smutty, sometimes profane, always touching look at family and relationships. If by some miracle you found this post before hearing about this book; go, now to your nearest comic or book store and buy it. Or, you know, read it <a id="yui_3_17_2_1_1449271443407_18871" href="https://imagecomics.com/comics/series/saga">digitally.</a></p>
 &nbsp;

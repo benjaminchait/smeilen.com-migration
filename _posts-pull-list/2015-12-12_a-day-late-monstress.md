@@ -13,7 +13,7 @@ There were many contenders for the topic of this post. The excellent mini-series
 
 <em>Monstress </em>(Writer: Marjorie Liu, Artist: Sana Takeda)
 
-<img src="/img/pull-list/c16ad-img.jpg" alt="" />
+<img src="/img/pull-list/1449946193592.jpeg" alt="" />
 
 There's a fox on the cover! Seriously, do I need to say more? Probably not, but I will because this project deserves it. The book is a hybrid of steampunk and Kaiju (Japanese monster movies, think Godzilla) but doesn't really address either genre. Liu's self-stated goal with this book is one of subversion. So much of the media that is given unto us is inhabited by males. Movies, books, TV, the protagonists are male. The default characters are male. Women are relegated to plot devices or set pieces. No one who inhabits these fictions seems to find it odd that the gender ratio is so skewed.  Liu seeks to invert this paradigm. Women are the powerful and the subjugated. They are good, cruel and indifferent. Men exist but on the periphery. And like so much of entertainment, no one in the world discusses it. The characters do not casually explain the matriarchy or gender imbalance; Liu simply asks her reader to step into the world and experience the story. She has given some eloquent interviews on these topics <a href="http://www.newsarama.com/23169-exclusive-marjorie-lius-dark-fantastic-adventure-at-image-monstress.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+newsaramacomics+%28Newsarama.com+comics%29">here</a> and <a href="http://www.hollywoodreporter.com/heat-vision/monstress-inside-fantasy-comic-race-836391">here</a>.
 
@@ -21,7 +21,7 @@ Let's talk about identity! Our protagonist Maika is a young women haunted by the
 
 And then there is Kippa.
 
-<img src="/img/pull-list/b2b6b-img.jpg" alt="" />
+<img src="/img/pull-list/1449949187885.jpeg" alt="" />
 
 Takeda has perfectly captured the innocence of childhood in a little fox girl. (Look at that face!) Kippa’s perspective is a powerful way to frame and experience a world of violent racism and hatred. Simultaneously, her utter adorableness and naïveté temper the world of horrors she inhabits.
 
