@@ -4,8 +4,8 @@ title: 'Ha Long Bay: Dragons and Islands'
 date: 2012-12-20T04:26:50+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/12/20/201212e8gg9po78oib8f89uu6u3swrehcbsn/
-permalink: /2012/12/20/201212e8gg9po78oib8f89uu6u3swrehcbsn/
+guid: 2012/12/20/ha-long-bay-dragons-and-islands/
+permalink: /2012/12/20/ha-long-bay-dragons-and-islands/
 categories:
   - Uncategorized
 tags:

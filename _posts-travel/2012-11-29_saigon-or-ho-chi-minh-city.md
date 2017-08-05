@@ -4,8 +4,8 @@ title: 'Saigon: Or, Ho Chi Minh City'
 date: 2012-11-29T11:57:15+00:00
 author: Sarah Meilen
 layout: post
-guid: 2012/11/29/2012117rj9txz8vvd0lnqef5ketqej14bukq/
-permalink: /2012/11/29/2012117rj9txz8vvd0lnqef5ketqej14bukq/
+guid: 2012/11/29/saigon-or-ho-chi-minh-city/
+permalink: /2012/11/29/saigon-or-ho-chi-minh-city/
 categories:
   - Uncategorized
 tags:
